@@ -12,6 +12,8 @@
 | 2026-10-12 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 给 agent 装 CAD skill：建模、工程图、DfAM、G-code | 以 Claude plugin 安装 | 19.3k |
 | 2026-10-12 | [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill) | 用航空维修「简明技术英语」规则改写提示词和报错 | `npx skills add danyuchn/asd-ste100-skill` | 约 4.5k |
 | 2026-10-12 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 用 YAML 定义多 agent 团队（Claude Code + Codex） | `npm install -g @openrig/cli` 后 `rig up starter` | 约 7.0k |
+| 2026-10-12 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | 4GB 显存跑 70B 大模型，不量化、不蒸馏、不剪枝；DeepSeek-V3(671B) 约 12GB 跑 | pip install airllm | 36.8k |
+| 2026-10-12 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 把 Claude Code、Codex、Pi、OpenCode 等 11 个编程智能体接到 61 家免费 AI 服务商，每月 13 亿免费 token | 一条安装脚本 + 免费 NVIDIA NIM key，5 分钟搞定 | 58.2k |
 
 ---
 
